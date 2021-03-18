@@ -1,2 +1,3 @@
 The current date is: Fri 02/19/2021 
 Enter the new date: (mm-dd-yy) Fri 02/19/2021 
+08:00 PM
