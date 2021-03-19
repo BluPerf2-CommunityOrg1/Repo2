@@ -1,2 +1,5 @@
 Repo2.zip filter=lfs diff=lfs merge=lfs -text
 10M.bin filter=lfs diff=lfs merge=lfs -text
+400K.bin filter=lfs diff=lfs merge=lfs -text
+10M-2.bin filter=lfs diff=lfs merge=lfs -text
+1M.bin filter=lfs diff=lfs merge=lfs -text
