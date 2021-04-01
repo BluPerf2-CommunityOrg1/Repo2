@@ -1,0 +1,1 @@
+synergy_v1.11.1-stable_b145-55ec3105_windows_x86.msi filter=lfs diff=lfs merge=lfs -text
