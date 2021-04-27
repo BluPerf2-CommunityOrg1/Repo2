@@ -6,3 +6,5 @@ Thu Apr  1 23:24:42 IST 2021
 
 This line contains master
 This line contains slave
+
+ip_address = "10.10.10.11"
