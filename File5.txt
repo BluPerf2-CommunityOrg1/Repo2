@@ -1,0 +1,6 @@
+this is a new file
+
+file contain gibberish and a password
+
+
+ip_address = "10.10.10.10"
