@@ -1,0 +1,6 @@
+This file contains the strings provided by whitehat
+
+Something1
+
+blackhat
+
