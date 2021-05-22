@@ -8,3 +8,5 @@ This line contains master
 This line contains slave
 
 ip_address = "10.10.10.11"Sun May 23 03:04:01 IST 2021
+
+ "P@ssw0rd,32482iuYW$#34h24"
